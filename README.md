@@ -1,34 +1,82 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<!-- START Project Title -->
+## 📓 Project Title
+Form Of Client-Side Validation Using Formik & Yup. [(VIDEO)](https://youtu.be/3cujB07uIgg)
+<!-- END Project Title -->
 
-## Getting Started
+<!-- START Table Of Contents -->
+## 📌 Table Of Contents
+Here is the table of contents of our project. You may use it to explore the whole project. 🛸
 
-First, run the development server:
+- [Project Title](#-project-title)
+- [Table Of Contents](#-table-of-contents)
+- [About Project](#-about-project)
+- [Technology Stack](#-technology-stack)
+- [References](#-references)
+- [Screenshots](#-screenshots)
+- [Videos](#%EF%B8%8F-videos)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END Table Of Contents -->
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- START About Project -->
+## 📢 About Project
+In this project we will explore on the basic of **Form Validation Using Formik & Yup**.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+What we have done in the recent times:
+* [x] Design a login layout with email and password inputs.
+* [x] Show error message for each validation if there is an error in the form.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END About Project -->
 
-## Learn More
+<!-- START Technology Stack -->
+## 🚀 Technology Stack
+A list of **technology stack** that we applied in this project. There are as listed below:
 
-To learn more about Next.js, take a look at the following resources:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode" />
+  </a>
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END Technology Stack -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<!-- START References -->
+## 🔎 References
+This is a list of references that we found quite helpful in the contribution to this project.
+1. [Formik](https://formik.org/docs/guides/validation) 
+2. [Yup](https://github.com/jquense/yup)
+ 
+<p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END References -->
 
-## Deploy on Vercel
+<!-- START Screenshots -->
+## 📸 Screenshots
+Here are some of the screenshot outputs of the project.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<img width="580" alt="Image results" src="https://user-images.githubusercontent.com/92319348/201942311-c10dc4d0-ec82-4931-9d30-d59a8e5cdc6f.jpg">
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END Screenshots -->
+
+<!-- START Videos -->
+## 📽️ Videos
+Here are some of the video results of the project. 
+1. In video results: [Result 1](https://youtu.be/3cujB07uIgg)
+
+<p align="right"><a href="#-project-title">🔼</a></p>
+<!-- END Videos -->
+
+
